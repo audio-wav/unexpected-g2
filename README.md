@@ -2,6 +2,10 @@
 
 # unexpected g2
 An open source Roblox admin commands script
+https://discord.gg/J73SnGB2y2
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/audio-wav/unexpected-g2/refs/heads/main/source'))()
+```
 
 ---
 
