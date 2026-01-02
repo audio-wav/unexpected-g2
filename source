@@ -1127,8 +1127,7 @@ end, nil, nil)
 
 
 unexpected:addcmd("unexspy", "Remote spy", function()
-	unexpected:notify("unexspy", "Running")
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/hashed-cmd/unexpected-cmd/refs/heads/main/misc/unexspy",true))()
+	unexpected:notify("unexspy", "Deprecated.")
 end, {"remotespy"}, nil)
 
 unexpected:addcmd("goto", "Teleport to a player", function(targetName)
